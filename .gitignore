@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -70,3 +71,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+ProjectUnity/Client/Library/
+ProjectUnity/Client/Logs/
+ProjectUnity/Client/Temp/
+ProjectUnity/Client/.vsconfig
+ProjectUnity/Client/Assembly-CSharp.csproj
+ProjectUnity/Client/Assembly-CSharp-Editor.csproj
+ProjectUnity/Client/Assembly-CSharp-Editor-firstpass.csproj
+ProjectUnity/Client/Assembly-CSharp-firstpass.csproj
+ProjectUnity/Client/Client.sln
+ProjectUnity/Client/.vs/
+>>>>>>> 7add1a477f39ae572df8b4eb06c4f5b8f4865124
