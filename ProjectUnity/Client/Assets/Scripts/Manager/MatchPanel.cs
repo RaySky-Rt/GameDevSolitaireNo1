@@ -167,8 +167,8 @@ public class MatchPanel : PanelBase
 
         matchInit();
 
-        //ShowDialog(() => matchStart(), "赛马开始");
-        matchStart();
+        ShowDialog(() => matchStart(), "赛马开始");
+        //matchStart();
         if (trackRect != null)
             trackRect.sizeDelta = new Vector2(trackLength, trackRect.sizeDelta.y);
     }
